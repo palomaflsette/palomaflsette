@@ -13,12 +13,12 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as Technnology Intern at [Ativa Investimentos](https://ativainvestimentos.com.br/). \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science, Technnology, Arts and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:books: &nbsp;Currently studying and researching about software architecture, development, AI, Machine Learning and quality.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2018 with 06 years of experience in enterprise wide software and algorithms development.\
-&nbsp;&nbsp;&nbsp;:space: &nbsp;Enthusiast of the two parallel lines that meet at infinity: art and science.
+:woman_technologist: &nbsp;Currently working as Technnology Intern at [Ativa Investimentos](https://ativainvestimentos.com.br/). \
+:seedling: &nbsp;Love for science, Technnology, Arts and innovation.\
+:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
+:books: &nbsp;Currently studying and researching about software architecture, development, AI, Machine Learning and quality.\
+:hammer_and_wrench: &nbsp;Coding since 2018 with 06 years of experience in enterprise wide software and algorithms development.\
+:ringed_planet: &nbsp;Enthusiast of the two parallel lines that meet at infinity: art and science.
 
 <p align="center">
   <a href="mailto:pfls.sette@gmail.com?subject=Olá,%20Paloma"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
