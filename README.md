@@ -16,7 +16,7 @@
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as Technnology Intern at [Ativa Investimentos](https://ativainvestimentos.com.br/). \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science, Technnology, Arts and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently studying and researching about software architecture, development, AI, Machine Learning and quality.\
+&nbsp;&nbsp;&nbsp;:books: &nbsp;Currently studying and researching about software architecture, development, AI, Machine Learning and quality.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2018 with 06 years of experience in enterprise wide software and algorithms development.\
 &nbsp;&nbsp;&nbsp;:space: &nbsp;Enthusiast of the two parallel lines that meet at infinity: art and science.
 
