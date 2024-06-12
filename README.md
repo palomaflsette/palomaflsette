@@ -2,10 +2,9 @@
 </p>
 <hr/>
 
-< !--<div align="center">  
+<!--<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-palomas-projects-f4756c4f.vercel.app/api?username=palomaflsette&show_icons=true&count_private=true&hide_border=true&title_color=DB9F69&icon_color=DB9F69&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true"/>
-</div>
- -- >
+</div>-->
 
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats-palomas-projects-f4756c4f.vercel.app//api/top-langs/?username=palomaflsette&layout=compact&hide_border=true&title_color=DB9F69&text_color=DB9F69&bg_color=0d1117" />
