@@ -13,7 +13,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-:woman_technologist: &nbsp;Currently working as Technnology Intern at [Ativa Investimentos](https://ativainvestimentos.com.br/). \
+<!--:woman_technologist: &nbsp;Currently working as Technnology Intern at [Ativa Investimentos](https://ativainvestimentos.com.br/). \-->
 :seedling: &nbsp;Love for science, Technnology, Arts and innovation.\
 :heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 :books: &nbsp;Currently studying and researching about software architecture, development, AI, Machine Learning and quality.\
