@@ -13,7 +13,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-:woman_technologist: &nbsp;Currently working as R&D at [Ford Motor Company](https://corporate.ford.com/home.html). 
+:woman_technologist: &nbsp;Currently working as R&D at [Ford Motor Company](https://corporate.ford.com/home.html). \
 :seedling: &nbsp;Love for science, Technnology, Arts and innovation.\
 :heartbeat: &nbsp;Passionate with problem solving and automation.\
 :books: &nbsp;Currently studying and researching about software architecture, development, AI, Machine Learning and quality.\
