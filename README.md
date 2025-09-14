@@ -26,7 +26,7 @@
   <a href="https://www.instagram.com/_palomasette/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;\-->
   <a href="https://www.linkedin.com/in/paloma-sette/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img width=9.8% src="https://img.shields.io/badge/Lattes-blue?style=for-the-badge&logo=orcid&logoColor=white&link=http://lattes.cnpq.br/5846976565547603"/>
+<img width=10% src="https://img.shields.io/badge/Lattes-blue?style=for-the-badge&logo=orcid&logoColor=white&link=http://lattes.cnpq.br/5846976565547603"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB9F69&height=120&section=footer"/>
 
