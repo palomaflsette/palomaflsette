@@ -13,11 +13,11 @@
 
 ### :space_invader: &nbsp;About Me
 
-<!--:woman_technologist: &nbsp;Currently working as Technnology Intern at [Ativa Investimentos](https://ativainvestimentos.com.br/). \-->
+:woman_technologist: &nbsp;Currently working as R&D at [Ford Motor Company](https://corporate.ford.com/home.html). 
 :seedling: &nbsp;Love for science, Technnology, Arts and innovation.\
-:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
+:heartbeat: &nbsp;Passionate with problem solving and automation.\
 :books: &nbsp;Currently studying and researching about software architecture, development, AI, Machine Learning and quality.\
-:hammer_and_wrench: &nbsp;Coding since 2018 with 06 years of experience in enterprise wide software and algorithms development.\
+:hammer_and_wrench: &nbsp;Coding since 2011 with experience in enterprise wide software and algorithms development.\
 :ringed_planet: &nbsp;Enthusiast of the two parallel lines that meet at infinity: art and science.
 
 <p align="center">
